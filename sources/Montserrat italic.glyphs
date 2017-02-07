@@ -23,7 +23,7 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright (c) 2011-2015, Julieta Ulanovsky (julieta.ulanovsky@gmail.com)";
+copyright = "Copyright 2011 The Montserrat Project Authors (julieta.ulanovsky@gmail.com)";
 customParameters = (
 {
 name = fsType;
@@ -2060,11 +2060,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1166;
+value = 1177;
 },
 {
 name = winDescent;
-value = 447;
+value = 496;
 },
 {
 name = hheaAscender;
@@ -2140,11 +2140,11 @@ capHeight = 700;
 customParameters = (
 {
 name = paramArea;
-value = "500";
+value = "800";
 },
 {
 name = paramDepth;
-value = "20";
+value = "30";
 },
 {
 name = paramOver;
@@ -2164,11 +2164,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1166;
+value = 1177;
 },
 {
 name = winDescent;
-value = 447;
+value = 496;
 },
 {
 name = hheaAscender;
@@ -2245,11 +2245,11 @@ capHeight = 701;
 customParameters = (
 {
 name = paramArea;
-value = "400";
+value = "800";
 },
 {
 name = paramDepth;
-value = "15";
+value = "30";
 },
 {
 name = paramOver;
@@ -2269,11 +2269,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1166;
+value = 1177;
 },
 {
 name = winDescent;
-value = 447;
+value = 496;
 },
 {
 name = hheaAscender;
